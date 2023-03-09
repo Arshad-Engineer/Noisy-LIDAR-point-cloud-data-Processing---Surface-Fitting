@@ -21,8 +21,7 @@ fitting method would be a better choice of outlier rejection. [20]
 ## A. File Structure
 
 This projects consists of the following code files
-+ Problem #1:
-    1. redball_trajectory.py
+
 + Problem #2:
     1. covariance_surf_normal.py
     2. lstq.py
@@ -30,7 +29,7 @@ This projects consists of the following code files
     4. ransac.py
 
 ## B. Modification to the given dataset:
-- Add the header to the 3 given columns as 'x','y','z' respectively
+- na
 
 ## C. Dependancies
 
@@ -42,9 +41,6 @@ This projects consists of the following code files
     pip install matplotlib
     pip install opencv-python
     ```
-
-+ Ensure that the above programs are downloaded into the same folder containing 
-'pc1.csv' and 'pc2.csv' files
 
 ## D. Running the Program
 
