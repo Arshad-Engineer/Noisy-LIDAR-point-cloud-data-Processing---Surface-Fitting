@@ -1,4 +1,4 @@
-# Noisy-LIDAR-point-cloud-data-Processing---Surface-Fitting
+# Noisy-LIDAR-Point-Cloud-Data-Processing-Surface-Fit Estimation using Least Squares, Total Least Squares, RANSAC
 # ENPM673 – Perception for Autonomous Robots
 
 # Project 1
