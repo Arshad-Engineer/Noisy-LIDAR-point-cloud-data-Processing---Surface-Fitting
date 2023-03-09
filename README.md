@@ -52,3 +52,11 @@ This projects consists of the following code files
     ```
 ## E. Results
 + On running each of the proframs, the output either pops out a plot or a video in individual window. The outputs can be correlated with the outputs shown in the report.
++ Plot: Least Squares method: Dataset pc1.csv
+![image](https://user-images.githubusercontent.com/112987383/223980842-a1ba0ae6-5633-4331-8cf3-70fda3dde5e7.png)
++ Plot: Total Least square Method: Dataset pc1.csv
+![image](https://user-images.githubusercontent.com/112987383/223981206-dfc00c67-4b25-4c5f-8171-4669ea8e96b9.png)
++ Plot: RANSAC Method: Dataset pc1.csv
+![image](https://user-images.githubusercontent.com/112987383/223981114-db879f66-9b8c-414e-b747-dfa85df96ce6.png)
+
+
