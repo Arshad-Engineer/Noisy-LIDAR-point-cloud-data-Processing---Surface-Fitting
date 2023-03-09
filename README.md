@@ -1,4 +1,4 @@
-# Noisy-LIDAR-Point-Cloud-Data-Processing-Surface-Fit Estimation using Least Squares, Total Least Squares, RANSAC
+# Noisy-LIDAR-Point-Cloud-Data-Processing & Surface-Fit Estimation using Least Squares, Total Least Squares, RANSAC
 # ENPM673 – Perception for Autonomous Robots
 
 # Project 1
@@ -15,7 +15,8 @@ method and the total least square method. Plot the results (the surface) for eac
 method and explain your interpretation of the results. [20]
 b. Additionally, fit a surface to the data using RANSAC. You will need to write RANSAC
 code from scratch. Briefly explain all the steps of your solution, and the parameters
-used. Plot the output surface on the same graph as the data.
+used. Plot the output surface on the same graph as the data.Discuss which graph
+fitting method would be a better choice of outlier rejection. [20]
 
 ## A. File Structure
 
